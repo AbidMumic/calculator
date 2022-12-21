@@ -30,13 +30,13 @@
 </div>
 <div class="clear"></div>
 <div class="about">
-<div class="abt"><h2>Ovo je nas najjednostavniji kalkuklator - Veliki, lagan za koritsti online and besplatan!<br>Provejri lagani kalkulator!<br>Ovo je jednostavan online kalkulator trebao bi biti dobar  za mladje  korisnike gdje im vise opcija nece trebat.</h2><p class="abtp">Ovaj  Jednostavni kalkulator je prije bio originalni  glavni kalkulator na sajtu , ali sad je napravljen da bude najjednostavniji. Ovo je moj prvi rad u HTML . Nadam se da ce vam se dopast.Instagram:abid_.14.</p></div>
+<div class="abt"><h2>Ovo je nas najjednostavniji kalkuklator lagan za koristitu online i besplatan!<br>!<br>Ovo je jednostavan online kalkulator trebao bi biti dobar  za mladje  korisnike.</h2><p class="abtp">Ovaj  Jednostavni kalkulator je prije bio originalni  glavni kalkulator na sajtu , ali sad je napravljen da bude najjednostavniji. Ovo je moj prvi rad u HTML . Nadam se da ce vam se dopast.Instagram:abid_.14.</p></div>
 </div>
 <div class="fsa"><div data-ad="Online-Kalkulator.com_najjednostavniji_Bosna" data-devices="m:1,t:1,d:1" class="demand-supply"></div></div><div class="fsa fsatp"><div data-ad="Online-Kalkulator.com_responsive_h_calc_mid" data-devices="m:0,t:1,d:1" class="demand-supply"></div></div>
 <div class="content">
 <div class="item">
 <div class="blok"><div id="AppHolder">{embed-link}</div></div>
-<div class="size"><a title="Koristite jednostavni kalkulator u cijelom ekranu " href="https://www.Online-Kalkulator.com/jednostavni-citav-ekran-kalkulator/">Koristite kalkulator u cijelom ekranu/a></div>
+<div class="size"><a title="Koristite u full screan " href="https://www.Online-Kalkulator.com/-citav-ekran-kalkulator/">Koristite kalkulator u cijelom ekranu/a></div>
 </div>
 </div>
 <div class="content">
